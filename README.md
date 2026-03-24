@@ -18,7 +18,6 @@ Actualmente me encuentro cursando la carrera de Ingeniería de Software, con un 
 
 💻 Stack Tecnológico: Python, Java, C, PHP, HTML, CSS y JavaScript.
 
----
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block"># 📊 GitHub Stats:</h1></summary>
