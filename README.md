@@ -19,7 +19,12 @@ Actualmente me encuentro cursando la carrera de Ingeniería de Software, con un 
 💻 Stack Tecnológico: Python, Java, C, PHP, HTML, CSS y JavaScript.
 
 ---
-# 📊 GitHub Stats:
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"># 📊 GitHub Stats:</h1></summary>
+  </ul>
+</div>
+
 <p align="center">
   <a href="https://github.com/diegoa-mg">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoa-mg&include_all_commits=true&theme=dark&show_icons=true&count_private=true"/>
