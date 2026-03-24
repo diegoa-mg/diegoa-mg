@@ -18,7 +18,9 @@
 
 Right now I'm studying Software Engineering at Universidad de Colima. 📚
 <br>
-I'm working on a proyect of a platform made for educational institutions developed on HTML5, CSS3, PHP, JavaScript, Tailwind CSS and MySQL. 🖥️🏫
+I'm currently learning web development, including HTML5, CSS3, PHP, JavaScript, Tailwind CSS and MySQL. 🖥️
+<br>
+I'm working on a proyect of a platform made for educational institutions named Lumina: Clarity for Academic Information. 🏫
 
 <div id="user-content-toc">
   <ul align="center">
