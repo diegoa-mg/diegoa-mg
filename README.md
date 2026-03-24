@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/diegoa-mg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegoa-mg&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoa-mg&theme=dark&show_icons=true&count_private=true"/>
   </a>
 </p>
 
