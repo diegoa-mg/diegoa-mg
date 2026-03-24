@@ -8,6 +8,18 @@
   </ul>
 </div>
 
+---
+<div align="center">
+  
+# About Me :
+Actualmente me encuentro cursando la carrera de Ingeniería de Software, con un fuerte enfoque en el desarrollo web y la creación de soluciones tecnológicas que generen impacto. Me apasiona transformar ideas en código y aprender nuevas tecnologías cada día.
+
+🚀 Actualmente trabajando en: Un proyecto de plataforma educativa sustentable (tipo red social) para promover los ODS.
+
+💻 Stack Tecnológico: Python, Java, C, PHP, HTML, CSS y JavaScript.
+
+---
+
 <p align="center">
   <a href="https://github.com/diegoa-mg">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoa-mg&include_all_commits=true&theme=dark&show_icons=true&count_private=true"/>
