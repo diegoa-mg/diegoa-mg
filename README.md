@@ -10,8 +10,12 @@
 
 ---
 <div align="center">
-  
-# 🤙 About Me :
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">#🤙 About Me :</h1></summary>
+  </ul>
+</div>
+
 Actualmente me encuentro cursando la carrera de Ingeniería de Software, con un fuerte enfoque en el desarrollo web y la creación de soluciones tecnológicas que generen impacto. Me apasiona transformar ideas en código y aprender nuevas tecnologías cada día.
 
 🚀 Actualmente trabajando en: Un proyecto de plataforma educativa desarrollado en HTML5, CSS3, PHP, JavaScript, Tailwind CSS y MySQL
