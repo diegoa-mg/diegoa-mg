@@ -12,7 +12,7 @@
 <div align="center">
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">#🤙 About Me :</h1></summary>
+    <summary><h1 style="display: inline-block">🤙 About Me :</h1></summary>
   </ul>
 </div>
 
@@ -24,7 +24,7 @@ Actualmente me encuentro cursando la carrera de Ingeniería de Software, con un 
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"># 📊 GitHub Stats:</h1></summary>
+    <summary><h1 style="display: inline-block">📊 GitHub Stats:</h1></summary>
   </ul>
 </div>
 
