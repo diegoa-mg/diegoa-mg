@@ -16,12 +16,12 @@
 
 <p align="center">
   <a href="https://github.com/diegoa-mg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegoa-mg&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegoa-mg&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoa-mg&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoa-mg&theme=dark"/>
 </p>
 
 <!--horizontal divider(gradiant)-->
