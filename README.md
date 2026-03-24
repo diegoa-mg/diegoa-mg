@@ -17,7 +17,8 @@
 </div>
 
 Right now I'm studying Software Engineering at Universidad de Colima. 📚
-I'm working on a proyect of a platform made for educational institutions developed on HTML5, CSS3, PHP, JavaScript, Tailwind CSS and MySQL. 🖥️🏫/
+<br>
+I'm working on a proyect of a platform made for educational institutions developed on HTML5, CSS3, PHP, JavaScript, Tailwind CSS and MySQL. 🖥️🏫
 
 <div id="user-content-toc">
   <ul align="center">
