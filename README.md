@@ -9,21 +9,14 @@
 </div>
 
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=diegoa-mg&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoa-mg&theme=dark&hide_border=false" /> 
-</td>
+  <a href="https://github.com/diegoa-mg">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegoa-mg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegoa-mg&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diegoa-mg&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoa-mg&theme=dark&hide_border=true"/>
+</p>
