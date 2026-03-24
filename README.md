@@ -14,7 +14,7 @@
 # About Me :
 Actualmente me encuentro cursando la carrera de Ingeniería de Software, con un fuerte enfoque en el desarrollo web y la creación de soluciones tecnológicas que generen impacto. Me apasiona transformar ideas en código y aprender nuevas tecnologías cada día.
 
-🚀 Actualmente trabajando en: Un proyecto de plataforma educativa sustentable (tipo red social) para promover los ODS.
+🚀 Actualmente trabajando en: Un proyecto de plataforma educativa desarrollado en HTML5, CSS3, PHP, JavaScript, Tailwind CSS y MySQL
 
 💻 Stack Tecnológico: Python, Java, C, PHP, HTML, CSS y JavaScript.
 
