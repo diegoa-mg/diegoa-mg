@@ -16,9 +16,8 @@
   </ul>
 </div>
 
-Actualmente me encuentro cursando la carrera de Ingeniería de Software, con un fuerte enfoque en el desarrollo web y la creación de soluciones tecnológicas que generen impacto. Me apasiona transformar ideas en código y aprender nuevas tecnologías cada día.
-
-🚀 Actualmente trabajando en: Un proyecto de plataforma educativa desarrollado en HTML5, CSS3, PHP, JavaScript, Tailwind CSS y MySQL
+Right now I'm studying Software Engineering at Universidad de Colima. 📚
+I'm working on a proyect of a platform made for educational institutions developed on HTML5, CSS3, PHP, JavaScript, Tailwind CSS and MySQL. 🖥️🏫/
 
 <div id="user-content-toc">
   <ul align="center">
