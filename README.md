@@ -17,9 +17,9 @@
 
 Hi! I'm Diego, currently studying Software Engineering at Universidad de Colima. 📚
 <br>
-I'm learning web development, including React JS, Tailwind CSS, FastAPI and PostgreSQL. 🖥️
+My current focus is web development, including React JS, Tailwind CSS, FastAPI and PostgreSQL. 🖥️
 <br>
-I'm working on a proyect of a multi branch POS system named Miko. 💰
+Additionally, I'm developing a project of a multi branch POS system named Miko. 💰
 
 <div id="user-content-toc">
   <ul align="center">
