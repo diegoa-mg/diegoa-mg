@@ -15,11 +15,11 @@
   </ul>
 </div>
 
-Right now I'm studying Software Engineering at Universidad de Colima. 📚
+Hi! I'm Diego, currently studying Software Engineering at Universidad de Colima. 📚
 <br>
-I'm currently learning web development, including HTML5, CSS3, PHP, JavaScript, Tailwind CSS and MySQL. 🖥️
+I'm learning web development, including React JS, Tailwind CSS, FastAPI and PostgreSQL. 🖥️
 <br>
-I'm working on a proyect of a platform made for educational institutions named Lumina: Clarity for Academic Information. 🏫
+I'm working on a proyect of a multi branch POS system named Miko. 💰
 
 <div id="user-content-toc">
   <ul align="center">
