@@ -59,7 +59,9 @@ Additionally, I'm developing a project of a multi branch POS system named Miko. 
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoa-mg&theme=dark"/>
+  <a href="https://github.com/diegoa-mg">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoa-mg&theme=dark"/>
+  </a>
 </p>
 
 <!--horizontal divider(gradiant)-->
